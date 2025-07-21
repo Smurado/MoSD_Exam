@@ -1,9 +1,27 @@
 # MoSD Exam Data Management Plan
 **Author:** Justin Bergmann <justin.bergmann@uni-jena.de>  
 **Description:** The repository for the "Management of Scientific Data" exam containing information about the creation process of the slides as well as the data and tools used.  
+
 **Table of Contents:**  
-:sectanchors:  
-:toc:  
+
+- [MoSD Exam Data Management Plan](#mosd-exam-data-management-plan)
+  - [Summary](#summary)
+  - [Data Lifecycle](#data-lifecycle)
+    - [Plan](#plan)
+    - [Collect](#collect)
+    - [Assure](#assure)
+    - [Describe](#describe)
+    - [Preserve](#preserve)
+      - [FAIR](#fair)
+    - [Discover](#discover)
+    - [Integrate](#integrate)
+    - [Analyze](#analyze)
+  - [Data Description](#data-description)
+    - [Cases/Deaths Dataset](#casesdeaths-dataset)
+    - [Testing Volume Dataset](#testing-volume-dataset)
+  - [Tools](#tools)
+  - [Repository](#repository)
+
 **Repository:** [https://github.com/Smurado/MoSD_Exam](https://github.com/Smurado/MoSD_Exam)
 
 ## Summary
